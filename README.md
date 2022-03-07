@@ -2,10 +2,10 @@ MyStack
 
 👋 Hi, I’m @lpninja
 
-👀 I’m interested in html, CSS, Express, nodeJS, mongoDB, Python and dataloggers on IoT.
+👀 I’m interested in html, CSS, Express, NodeJS, mongoDB, Python and dataloggers on IoT.
 
-🌱 I’m currently learning nodeJS & mongoDB
+🌱 I’m currently learning NodeJS & mongoDB
 
 💞️ I’m looking to collaborate on html and blogs
 
-📫 How to reach me solcrypto at protonmail
+📫 How to reach me at solcrypto at protonmail
